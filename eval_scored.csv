@@ -1,0 +1,18 @@
+question,answer_short,correctness,grounded,refusal
+What is Newton's first law of motion?,Law of inertia - objects resist change in motion,correct,yes,na
+What is inertia?,Property to resist change in state of motion,correct,yes,na
+What is Newton's second law of motion?,Rate of change of momentum proportional to force,correct,yes,na
+What is momentum?,momentum = mass x velocity,correct,yes,na
+What is Newton's third law of motion?,Equal and opposite forces,correct,yes,na
+What happens when unbalanced force acts?,Object brought into motion,correct,yes,na
+What is SI unit of force?,kg m s-2 or newton N,correct,yes,na
+Relationship between force mass acceleration?,F = ma,correct,yes,na
+What is law of conservation of momentum?,Refused - not found,wrong,na,na
+What happens to body at rest with no force?,Remains at rest due to inertia,correct,yes,na
+No external force on moving object?,Continues with same velocity,correct,yes,na
+How does mass affect motion?,Mass is a measure of inertia,correct,yes,na
+Why passengers fall forward when bus brakes?,Inertia - body continues in same state,correct,yes,na
+Who is Prime Minister of India?,Refused correctly,na,na,yes
+What is photosynthesis?,Refused correctly,na,na,yes
+What is capital of France?,Refused correctly,na,na,yes
+Explain quantum entanglement?,Refused correctly,na,na,yes
