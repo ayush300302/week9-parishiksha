@@ -1,0 +1,52 @@
+[
+  {
+    "query": "What is Newton's first law of motion?",
+    "top_1_chunk_id": "ch9_gravitation_chunk_000",
+    "is_correct_top1": "YES"
+  },
+  {
+    "query": "What is inertia?",
+    "top_1_chunk_id": "ch8_force_laws_chunk_015",
+    "is_correct_top1": "YES"
+  },
+  {
+    "query": "What is momentum?",
+    "top_1_chunk_id": "ch8_force_laws_chunk_016",
+    "is_correct_top1": "YES"
+  },
+  {
+    "query": "What happens when unbalanced force acts?",
+    "top_1_chunk_id": "ch8_force_laws_chunk_004",
+    "is_correct_top1": "YES"
+  },
+  {
+    "query": "Why passengers fall forward when bus brakes?",
+    "top_1_chunk_id": "ch8_force_laws_chunk_008",
+    "is_correct_top1": "YES"
+  },
+  {
+    "query": "What is Newton's second law of motion?",
+    "top_1_chunk_id": "ch8_force_laws_chunk_018",
+    "is_correct_top1": "YES"
+  },
+  {
+    "query": "What is Newton's third law of motion?",
+    "top_1_chunk_id": "ch8_force_laws_chunk_027",
+    "is_correct_top1": "YES"
+  },
+  {
+    "query": "What is SI unit of force?",
+    "top_1_chunk_id": "ch8_force_laws_chunk_019",
+    "is_correct_top1": "YES"
+  },
+  {
+    "query": "What happens to body at rest with no force?",
+    "top_1_chunk_id": "ch9_gravitation_chunk_022",
+    "is_correct_top1": "YES"
+  },
+  {
+    "query": "No external force on moving object?",
+    "top_1_chunk_id": "ch8_force_laws_chunk_000",
+    "is_correct_top1": "YES"
+  }
+]
