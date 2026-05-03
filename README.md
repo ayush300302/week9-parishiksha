@@ -12,6 +12,10 @@
 
 </div>
 
+<div align="center">
+  <img src="assets/chatbot_mockup.png" alt="PariShiksha Chatbot UI Mockup" width="800"/>
+</div>
+
 ---
 
 ## 🚀 Overview
